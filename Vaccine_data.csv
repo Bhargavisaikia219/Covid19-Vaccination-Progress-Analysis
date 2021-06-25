@@ -1,0 +1,218 @@
+location,iso_code,last_observation_date,vaccines
+Afghanistan,AFG,14-06-2021,"BBIBP-CorV, Oxford/AstraZeneca, Pfizer/BioNTech"
+Albania,ALB,21-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V"
+Algeria,DZA,06-06-2021,"Oxford/AstraZeneca, Sputnik V"
+Andorra,AND,14-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Angola,AGO,20-06-2021,Oxford/AstraZeneca
+Anguilla,AIA,18-06-2021,Oxford/AstraZeneca
+Antigua and Barbuda,ATG,17-06-2021,Oxford/AstraZeneca
+Argentina,ARG,21-06-2021,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V"
+Armenia,ARM,14-06-2021,"Oxford/AstraZeneca, Sinovac, Sputnik V"
+Aruba,ABW,21-06-2021,Pfizer/BioNTech
+Australia,AUS,21-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Austria,AUT,21-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Azerbaijan,AZE,21-06-2021,"Oxford/AstraZeneca, Sinovac, Sputnik V"
+Bahamas,BHS,19-06-2021,Oxford/AstraZeneca
+Bahrain,BHR,21-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V"
+Bangladesh,BGD,20-06-2021,Oxford/AstraZeneca
+Barbados,BRB,19-06-2021,Oxford/AstraZeneca
+Belarus,BLR,13-06-2021,"BBIBP-CorV, Sputnik V"
+Belgium,BEL,21-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Belize,BLZ,17-06-2021,"Oxford/AstraZeneca, Sinopharm/Beijing"
+Benin,BEN,08-06-2021,"Oxford/AstraZeneca, Sinovac"
+Bermuda,BMU,14-06-2021,Pfizer/BioNTech
+Bhutan,BTN,13-06-2021,Oxford/AstraZeneca
+Bolivia,BOL,21-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V"
+Bonaire Sint Eustatius and Saba,BES,09-04-2021,"Moderna, Pfizer/BioNTech"
+Bosnia and Herzegovina,BIH,13-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V"
+Botswana,BWA,07-06-2021,Oxford/AstraZeneca
+Brazil,BRA,21-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac"
+British Virgin Islands,VGB,18-06-2021,Oxford/AstraZeneca
+Brunei,BRN,19-06-2021,"Oxford/AstraZeneca, Sinopharm/Beijing"
+Bulgaria,BGR,21-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Burkina Faso,BFA,14-06-2021,Oxford/AstraZeneca
+Cambodia,KHM,21-06-2021,"Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac"
+Cameroon,CMR,20-06-2021,"BBIBP-CorV, Oxford/AstraZeneca"
+Canada,CAN,21-06-2021,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Cape Verde,CPV,20-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Cayman Islands,CYM,21-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Central African Republic,CAF,15-06-2021,"Covaxin, Oxford/AstraZeneca"
+Chad,TCD,10-06-2021,BBIBP-CorV
+Chile,CHL,18-06-2021,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac"
+China,CHN,21-06-2021,"CanSino, Sinopharm/Beijing, Sinopharm/Wuhan, Sinovac"
+Colombia,COL,21-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac"
+Comoros,COM,08-06-2021,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing"
+Congo,COG,20-06-2021,"BBIBP-CorV, Moderna, Oxford/AstraZeneca, Sputnik V"
+Cook Islands,COK,21-06-2021,Oxford/AstraZeneca
+Costa Rica,CRI,14-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Cote d'Ivoire,CIV,20-06-2021,Oxford/AstraZeneca
+Croatia,HRV,21-06-2021,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Cuba,CUB,20-06-2021,"Abdala, Soberana02"
+Curacao,CUW,21-06-2021,"Moderna, Pfizer/BioNTech"
+Cyprus,CYP,19-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Czechia,CZE,21-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Democratic Republic of Congo,COD,20-06-2021,Oxford/AstraZeneca
+Denmark,DNK,21-06-2021,"Johnson&Johnson, Moderna, Pfizer/BioNTech"
+Djibouti,DJI,01-06-2021,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V"
+Dominica,DMA,14-06-2021,Oxford/AstraZeneca
+Dominican Republic,DOM,21-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac"
+Ecuador,ECU,20-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac"
+Egypt,EGY,20-06-2021,"BBIBP-CorV, Oxford/AstraZeneca, Sinovac, Sputnik V"
+El Salvador,SLV,21-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac"
+England,OWID_ENG,20-06-2021,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Equatorial Guinea,GNQ,17-06-2021,Sinopharm/Beijing
+Estonia,EST,21-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Eswatini,SWZ,13-05-2021,Oxford/AstraZeneca
+Ethiopia,ETH,20-06-2021,Oxford/AstraZeneca
+Faeroe Islands,FRO,21-06-2021,"Moderna, Pfizer/BioNTech"
+Falkland Islands,FLK,14-04-2021,Oxford/AstraZeneca
+Fiji,FJI,21-06-2021,Oxford/AstraZeneca
+Finland,FIN,21-06-2021,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+France,FRA,20-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+French Polynesia,PYF,21-06-2021,Oxford/AstraZeneca
+Gabon,GAB,18-06-2021,Sinopharm/Beijing
+Gambia,GMB,08-06-2021,"Oxford/AstraZeneca, Sinopharm/Beijing"
+Georgia,GEO,20-06-2021,Oxford/AstraZeneca
+Germany,DEU,21-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Ghana,GHA,20-06-2021,"Oxford/AstraZeneca, Sputnik V"
+Gibraltar,GIB,21-06-2021,Pfizer/BioNTech
+Greece,GRC,21-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Greenland,GRL,18-06-2021,Moderna
+Grenada,GRD,18-06-2021,Oxford/AstraZeneca
+Guatemala,GTM,20-06-2021,"Moderna, Oxford/AstraZeneca"
+Guernsey,GGY,21-06-2021,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Guinea,GIN,17-06-2021,Sputnik V
+Guinea-Bissau,GNB,08-06-2021,"Oxford/AstraZeneca, Sinopharm/Beijing"
+Guyana,GUY,16-06-2021,"Oxford/AstraZeneca, Sputnik V"
+Honduras,HND,18-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Sputnik V"
+Hong Kong,HKG,21-06-2021,"Pfizer/BioNTech, Sinovac"
+Hungary,HUN,21-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V"
+Iceland,ISL,17-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+India,IND,21-06-2021,"Covaxin, Oxford/AstraZeneca"
+Indonesia,IDN,21-06-2021,"Oxford/AstraZeneca, Sinovac"
+Iran,IRN,14-06-2021,"BBIBP-CorV, Covaxin, Oxford/AstraZeneca, Sputnik V"
+Iraq,IRQ,20-06-2021,"BBIBP-CorV, Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V"
+Ireland,IRL,13-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Isle of Man,IMN,21-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Israel,ISR,21-06-2021,"Moderna, Pfizer/BioNTech"
+Italy,ITA,21-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Jamaica,JAM,11-06-2021,Oxford/AstraZeneca
+Japan,JPN,21-06-2021,"Moderna, Pfizer/BioNTech"
+Jersey,JEY,16-06-2021,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Jordan,JOR,21-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V"
+Kazakhstan,KAZ,21-06-2021,"QazVac, Sinopharm/HayatVax, Sputnik V"
+Kenya,KEN,21-06-2021,"Oxford/AstraZeneca, Sputnik V"
+Kosovo,OWID_KOS,20-06-2021,Oxford/AstraZeneca
+Kuwait,KWT,20-06-2021,Pfizer/BioNTech
+Kyrgyzstan,KGZ,09-06-2021,"Sinopharm/Beijing, Sputnik V"
+Laos,LAO,19-06-2021,"Sinopharm/Beijing, Sputnik V"
+Latvia,LVA,21-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Lebanon,LBN,20-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V"
+Lesotho,LSO,21-05-2021,Oxford/AstraZeneca
+Liberia,LBR,20-06-2021,Oxford/AstraZeneca
+Libya,LBY,16-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V"
+Liechtenstein,LIE,20-06-2021,"Moderna, Pfizer/BioNTech"
+Lithuania,LTU,21-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Luxembourg,LUX,21-06-2021,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Macao,MAC,21-06-2021,"Pfizer/BioNTech, Sinopharm/Beijing"
+Madagascar,MDG,20-06-2021,Oxford/AstraZeneca
+Malawi,MWI,19-06-2021,Oxford/AstraZeneca
+Malaysia,MYS,21-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac"
+Maldives,MDV,19-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing"
+Mali,MLI,20-06-2021,Oxford/AstraZeneca
+Malta,MLT,21-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Mauritania,MRT,20-06-2021,"BBIBP-CorV, Oxford/AstraZeneca"
+Mauritius,MUS,20-06-2021,"BBIBP-CorV, Covaxin, Oxford/AstraZeneca"
+Mexico,MEX,20-06-2021,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V"
+Moldova,MDA,21-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V"
+Monaco,MCO,10-06-2021,Pfizer/BioNTech
+Mongolia,MNG,21-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V"
+Montenegro,MNE,21-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V"
+Montserrat,MSR,18-06-2021,Oxford/AstraZeneca
+Morocco,MAR,21-06-2021,"Oxford/AstraZeneca, Sinopharm/Beijing"
+Mozambique,MOZ,10-06-2021,"Oxford/AstraZeneca, Sinopharm/Beijing"
+Myanmar,MMR,13-05-2021,Oxford/AstraZeneca
+Namibia,NAM,21-06-2021,"Oxford/AstraZeneca, Sinopharm/Beijing"
+Nauru,NRU,21-06-2021,Oxford/AstraZeneca
+Nepal,NPL,19-06-2021,"Oxford/AstraZeneca, Sinopharm/Beijing"
+Netherlands,NLD,20-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+New Caledonia,NCL,21-06-2021,Pfizer/BioNTech
+New Zealand,NZL,15-06-2021,Pfizer/BioNTech
+Nicaragua,NIC,21-05-2021,"Oxford/AstraZeneca, Sputnik V"
+Niger,NER,14-06-2021,"BBIBP-CorV, Oxford/AstraZeneca"
+Nigeria,NGA,04-06-2021,Oxford/AstraZeneca
+North Macedonia,MKD,21-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V"
+Northern Cyprus,OWID_CYN,27-05-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac"
+Northern Ireland,OWID_NIR,21-06-2021,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Norway,NOR,21-06-2021,"Moderna, Pfizer/BioNTech"
+Oman,OMN,20-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Pakistan,PAK,21-06-2021,"CanSino, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V"
+Palestine,PSE,21-06-2021,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Panama,PAN,21-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Papua New Guinea,PNG,07-06-2021,"Oxford/AstraZeneca, Sinopharm/Beijing"
+Paraguay,PRY,17-06-2021,"Covaxin, Oxford/AstraZeneca, Sinopharm/Beijing, Sinovac, Sputnik V"
+Peru,PER,20-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing"
+Philippines,PHL,20-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V"
+Pitcairn,PCN,21-06-2021,Oxford/AstraZeneca
+Poland,POL,21-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Portugal,PRT,21-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Qatar,QAT,21-06-2021,"Moderna, Pfizer/BioNTech"
+Romania,ROU,21-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Russia,RUS,21-06-2021,"EpiVacCorona, Sputnik V"
+Rwanda,RWA,06-06-2021,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Saint Helena,SHN,05-05-2021,Oxford/AstraZeneca
+Saint Kitts and Nevis,KNA,15-06-2021,Oxford/AstraZeneca
+Saint Lucia,LCA,19-06-2021,Oxford/AstraZeneca
+Saint Vincent and the Grenadines,VCT,15-06-2021,Oxford/AstraZeneca
+Samoa,WSM,21-06-2021,Oxford/AstraZeneca
+San Marino,SMR,21-06-2021,"Pfizer/BioNTech, Sputnik V"
+Sao Tome and Principe,STP,14-06-2021,Oxford/AstraZeneca
+Saudi Arabia,SAU,21-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,OWID_SCT,21-06-2021,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Senegal,SEN,15-06-2021,"BBIBP-CorV, Oxford/AstraZeneca"
+Serbia,SRB,20-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V"
+Seychelles,SYC,18-06-2021,"Oxford/AstraZeneca, Sinopharm/Beijing"
+Sierra Leone,SLE,20-06-2021,"BBIBP-CorV, Oxford/AstraZeneca"
+Singapore,SGP,14-06-2021,"Moderna, Pfizer/BioNTech"
+Sint Maarten (Dutch part),SXM,18-06-2021,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Slovakia,SVK,21-06-2021,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Slovenia,SVN,21-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Solomon Islands,SLB,21-06-2021,Oxford/AstraZeneca
+Somalia,SOM,20-06-2021,"BBIBP-CorV, Oxford/AstraZeneca, Sinovac"
+South Africa,ZAF,19-06-2021,"Johnson&Johnson, Pfizer/BioNTech"
+South Korea,KOR,21-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+South Sudan,SSD,20-06-2021,Oxford/AstraZeneca
+Spain,ESP,20-06-2021,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Sri Lanka,LKA,21-06-2021,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V"
+Sudan,SDN,20-06-2021,"BBIBP-CorV, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac"
+Suriname,SUR,21-06-2021,Oxford/AstraZeneca
+Sweden,SWE,18-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Switzerland,CHE,20-06-2021,"Moderna, Pfizer/BioNTech"
+Syria,SYR,06-06-2021,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V"
+Taiwan,TWN,21-06-2021,"Moderna, Oxford/AstraZeneca"
+Tajikistan,TJK,13-06-2021,Oxford/AstraZeneca
+Thailand,THA,19-06-2021,"Oxford/AstraZeneca, Sinovac"
+Timor-Leste,TLS,15-06-2021,"Oxford/AstraZeneca, Sinovac"
+Togo,TGO,10-06-2021,Oxford/AstraZeneca
+Tonga,TON,21-06-2021,Oxford/AstraZeneca
+Trinidad and Tobago,TTO,21-06-2021,Oxford/AstraZeneca
+Tunisia,TUN,20-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V"
+Turkey,TUR,21-06-2021,"Pfizer/BioNTech, Sinovac"
+Turkmenistan,TKM,04-04-2021,"EpiVacCorona, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V"
+Turks and Caicos Islands,TCA,18-06-2021,Pfizer/BioNTech
+Tuvalu,TUV,15-06-2021,Oxford/AstraZeneca
+Uganda,UGA,16-06-2021,Oxford/AstraZeneca
+Ukraine,UKR,21-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac"
+United Arab Emirates,ARE,21-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinopharm/Wuhan, Sputnik V"
+United Kingdom,GBR,21-06-2021,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+United States,USA,21-06-2021,"Johnson&Johnson, Moderna, Pfizer/BioNTech"
+Uruguay,URY,20-06-2021,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac"
+Uzbekistan,UZB,15-06-2021,"Oxford/AstraZeneca, RBD-Dimer, Sputnik V"
+Vanuatu,VUT,21-06-2021,Oxford/AstraZeneca
+Venezuela,VEN,18-06-2021,"BBIBP-CorV, Sputnik V"
+Vietnam,VNM,20-06-2021,Oxford/AstraZeneca
+Wales,OWID_WLS,21-06-2021,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+Wallis and Futuna,WLF,21-06-2021,Oxford/AstraZeneca
+Yemen,YEM,20-06-2021,Oxford/AstraZeneca
+Zambia,ZMB,15-06-2021,"Oxford/AstraZeneca, Sinopharm/Beijing"
+Zimbabwe,ZWE,20-06-2021,Sinopharm/Beijing
